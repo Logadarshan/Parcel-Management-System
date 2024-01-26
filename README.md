@@ -18,3 +18,11 @@ Develop a web-based application to deliver and distribute mail and parcels to st
 - Module for College Resident (Recipient)
 - Complaint Module
 
+
+## Tools
+
+- HTML
+- CSS
+- Javascript
+- MYSQL
+- Laravel
